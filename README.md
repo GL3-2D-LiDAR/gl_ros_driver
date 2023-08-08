@@ -4,7 +4,7 @@
 - Installation
 ```
 $ cd ${ROS workspace}/src
-$ git clone --recurse-submodules https://github.com/soslab-project/gl_ros_driver.git
+$ git clone --recurse-submodules https://github.com/GL3-2D-LiDAR/gl_ros_driver.git
 $ cd $(ROS workspace)
 $ catkin_make -DCMAKE_BUILD_TYPE=Release
 ```
